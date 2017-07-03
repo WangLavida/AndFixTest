@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndFixTest</string>
+    <string name="title_activity_fix">FixActivity</string>
+</resources>
